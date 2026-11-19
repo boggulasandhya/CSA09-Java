@@ -1,0 +1,9 @@
+# TransactionId, BranchCode, Category, Amount, UnitsSold
+TX-1001, NORTH-01, Electronics, 1250.50, 2
+TX-1002, SOUTH-02, Furniture,    840.00, 4
+TX-1003, EAST-03,  Groceries,    145.20, 15
+TX-1004, WEST-04,  Electronics, 3200.00, 3
+TX-1005, NORTH-01, Clothing,     220.80, 5
+TX-1006, SOUTH-02, Electronics,  799.99, 1
+TX-1007, EAST-03,  Furniture,   1150.00, 2
+TX-1008, WEST-04,  Groceries,    310.50, 22
